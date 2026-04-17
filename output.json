@@ -1,0 +1,3495 @@
+[
+  {
+    "date": "2024-12-01",
+    "code": "AFF001",
+    "registrations": 14,
+    "ftds": 1,
+    "state": "AL"
+  },
+  {
+    "date": "2025-01-09",
+    "code": "AFF001",
+    "registrations": 30,
+    "ftds": 7,
+    "state": "AL"
+  },
+  {
+    "date": "2024-07-07",
+    "code": "AFF002",
+    "registrations": 23,
+    "ftds": 6,
+    "state": "AL"
+  },
+  {
+    "date": "2024-08-12",
+    "code": "AFF004",
+    "registrations": 25,
+    "ftds": 3,
+    "state": "AL"
+  },
+  {
+    "date": "2024-12-13",
+    "code": "AFF004",
+    "registrations": 27,
+    "ftds": 8,
+    "state": "AL"
+  },
+  {
+    "date": "2024-08-10",
+    "code": "AFF005",
+    "registrations": 17,
+    "ftds": 5,
+    "state": "AL"
+  },
+  {
+    "date": "2024-09-02",
+    "code": "AFF001",
+    "registrations": 12,
+    "ftds": 2,
+    "state": "AZ"
+  },
+  {
+    "date": "2024-10-17",
+    "code": "AFF001",
+    "registrations": 6,
+    "ftds": 0,
+    "state": "AZ"
+  },
+  {
+    "date": "2024-12-11",
+    "code": "AFF001",
+    "registrations": 18,
+    "ftds": 2,
+    "state": "AZ"
+  },
+  {
+    "date": "2024-08-20",
+    "code": "AFF002",
+    "registrations": 3,
+    "ftds": 0,
+    "state": "AZ"
+  },
+  {
+    "date": "2024-12-27",
+    "code": "AFF003",
+    "registrations": 26,
+    "ftds": 3,
+    "state": "AZ"
+  },
+  {
+    "date": "2024-08-29",
+    "code": "AFF005",
+    "registrations": 40,
+    "ftds": 12,
+    "state": "AZ"
+  },
+  {
+    "date": "2024-11-07",
+    "code": "AFF007",
+    "registrations": 36,
+    "ftds": 3,
+    "state": "AZ"
+  },
+  {
+    "date": "2024-08-26",
+    "code": "AFF001",
+    "registrations": 4,
+    "ftds": 0,
+    "state": "CA"
+  },
+  {
+    "date": "2024-09-06",
+    "code": "AFF001",
+    "registrations": 39,
+    "ftds": 7,
+    "state": "CA"
+  },
+  {
+    "date": "2024-09-21",
+    "code": "AFF001",
+    "registrations": 21,
+    "ftds": 5,
+    "state": "CA"
+  },
+  {
+    "date": "2024-11-18",
+    "code": "AFF001",
+    "registrations": 35,
+    "ftds": 10,
+    "state": "CA"
+  },
+  {
+    "date": "2024-11-22",
+    "code": "AFF001",
+    "registrations": 35,
+    "ftds": 3,
+    "state": "CA"
+  },
+  {
+    "date": "2024-11-23",
+    "code": "AFF001",
+    "registrations": 32,
+    "ftds": 9,
+    "state": "CA"
+  },
+  {
+    "date": "2024-11-30",
+    "code": "AFF001",
+    "registrations": 22,
+    "ftds": 2,
+    "state": "CA"
+  },
+  {
+    "date": "2024-12-12",
+    "code": "AFF001",
+    "registrations": 31,
+    "ftds": 9,
+    "state": "CA"
+  },
+  {
+    "date": "2024-12-13",
+    "code": "AFF001",
+    "registrations": 26,
+    "ftds": 6,
+    "state": "CA"
+  },
+  {
+    "date": "2024-12-28",
+    "code": "AFF001",
+    "registrations": 15,
+    "ftds": 4,
+    "state": "CA"
+  },
+  {
+    "date": "2025-01-19",
+    "code": "AFF001",
+    "registrations": 26,
+    "ftds": 4,
+    "state": "CA"
+  },
+  {
+    "date": "2025-01-29",
+    "code": "AFF001",
+    "registrations": 28,
+    "ftds": 2,
+    "state": "CA"
+  },
+  {
+    "date": "2024-11-10",
+    "code": "AFF002",
+    "registrations": 16,
+    "ftds": 4,
+    "state": "CA"
+  },
+  {
+    "date": "2024-12-15",
+    "code": "AFF002",
+    "registrations": 31,
+    "ftds": 8,
+    "state": "CA"
+  },
+  {
+    "date": "2024-12-31",
+    "code": "AFF002",
+    "registrations": 38,
+    "ftds": 9,
+    "state": "CA"
+  },
+  {
+    "date": "2025-01-24",
+    "code": "AFF002",
+    "registrations": 30,
+    "ftds": 1,
+    "state": "CA"
+  },
+  {
+    "date": "2024-08-11",
+    "code": "AFF003",
+    "registrations": 38,
+    "ftds": 2,
+    "state": "CA"
+  },
+  {
+    "date": "2024-11-19",
+    "code": "AFF003",
+    "registrations": 25,
+    "ftds": 5,
+    "state": "CA"
+  },
+  {
+    "date": "2024-12-08",
+    "code": "AFF003",
+    "registrations": 20,
+    "ftds": 6,
+    "state": "CA"
+  },
+  {
+    "date": "2024-12-18",
+    "code": "AFF003",
+    "registrations": 15,
+    "ftds": 2,
+    "state": "CA"
+  },
+  {
+    "date": "2024-10-27",
+    "code": "AFF005",
+    "registrations": 4,
+    "ftds": 0,
+    "state": "CA"
+  },
+  {
+    "date": "2024-11-04",
+    "code": "AFF005",
+    "registrations": 39,
+    "ftds": 2,
+    "state": "CA"
+  },
+  {
+    "date": "2025-01-27",
+    "code": "AFF005",
+    "registrations": 14,
+    "ftds": 3,
+    "state": "CA"
+  },
+  {
+    "date": "2024-12-05",
+    "code": "AFF006",
+    "registrations": 33,
+    "ftds": 7,
+    "state": "CA"
+  },
+  {
+    "date": "2025-01-08",
+    "code": "AFF006",
+    "registrations": 23,
+    "ftds": 2,
+    "state": "CA"
+  },
+  {
+    "date": "2025-01-09",
+    "code": "AFF006",
+    "registrations": 1,
+    "ftds": 0,
+    "state": "CA"
+  },
+  {
+    "date": "2024-11-09",
+    "code": "AFF007",
+    "registrations": 29,
+    "ftds": 5,
+    "state": "CA"
+  },
+  {
+    "date": "2024-11-23",
+    "code": "AFF007",
+    "registrations": 4,
+    "ftds": 0,
+    "state": "CA"
+  },
+  {
+    "date": "2025-01-27",
+    "code": "AFF007",
+    "registrations": 9,
+    "ftds": 3,
+    "state": "CA"
+  },
+  {
+    "date": "2024-07-10",
+    "code": "AFF008",
+    "registrations": 16,
+    "ftds": 3,
+    "state": "CA"
+  },
+  {
+    "date": "2024-12-08",
+    "code": "AFF008",
+    "registrations": 20,
+    "ftds": 5,
+    "state": "CA"
+  },
+  {
+    "date": "2024-12-22",
+    "code": "AFF008",
+    "registrations": 39,
+    "ftds": 9,
+    "state": "CA"
+  },
+  {
+    "date": "2025-01-10",
+    "code": "AFF008",
+    "registrations": 6,
+    "ftds": 0,
+    "state": "CA"
+  },
+  {
+    "date": "2024-07-19",
+    "code": "AFF009",
+    "registrations": 11,
+    "ftds": 2,
+    "state": "CA"
+  },
+  {
+    "date": "2024-09-02",
+    "code": "AFF009",
+    "registrations": 23,
+    "ftds": 6,
+    "state": "CA"
+  },
+  {
+    "date": "2024-09-06",
+    "code": "AFF009",
+    "registrations": 11,
+    "ftds": 1,
+    "state": "CA"
+  },
+  {
+    "date": "2024-10-18",
+    "code": "AFF009",
+    "registrations": 32,
+    "ftds": 8,
+    "state": "CA"
+  },
+  {
+    "date": "2025-01-18",
+    "code": "AFF009",
+    "registrations": 25,
+    "ftds": 7,
+    "state": "CA"
+  },
+  {
+    "date": "2024-08-05",
+    "code": "AFF010",
+    "registrations": 35,
+    "ftds": 2,
+    "state": "CA"
+  },
+  {
+    "date": "2024-12-04",
+    "code": "AFF010",
+    "registrations": 14,
+    "ftds": 3,
+    "state": "CA"
+  },
+  {
+    "date": "2024-07-03",
+    "code": "AFF014",
+    "registrations": 28,
+    "ftds": 2,
+    "state": "CA"
+  },
+  {
+    "date": "2025-01-20",
+    "code": "AFF014",
+    "registrations": 23,
+    "ftds": 2,
+    "state": "CA"
+  },
+  {
+    "date": "2025-01-21",
+    "code": "AFF014",
+    "registrations": 16,
+    "ftds": 1,
+    "state": "CA"
+  },
+  {
+    "date": "2025-01-14",
+    "code": "AFF015",
+    "registrations": 28,
+    "ftds": 3,
+    "state": "CA"
+  },
+  {
+    "date": "2024-11-03",
+    "code": "AFF001",
+    "registrations": 24,
+    "ftds": 7,
+    "state": "CO"
+  },
+  {
+    "date": "2024-11-03",
+    "code": "AFF002",
+    "registrations": 9,
+    "ftds": 2,
+    "state": "CO"
+  },
+  {
+    "date": "2024-11-08",
+    "code": "AFF002",
+    "registrations": 13,
+    "ftds": 3,
+    "state": "CO"
+  },
+  {
+    "date": "2024-08-04",
+    "code": "AFF003",
+    "registrations": 7,
+    "ftds": 1,
+    "state": "CO"
+  },
+  {
+    "date": "2024-09-23",
+    "code": "AFF003",
+    "registrations": 24,
+    "ftds": 4,
+    "state": "CO"
+  },
+  {
+    "date": "2024-11-20",
+    "code": "AFF004",
+    "registrations": 18,
+    "ftds": 4,
+    "state": "CO"
+  },
+  {
+    "date": "2024-08-20",
+    "code": "AFF005",
+    "registrations": 35,
+    "ftds": 4,
+    "state": "CO"
+  },
+  {
+    "date": "2024-11-10",
+    "code": "AFF005",
+    "registrations": 16,
+    "ftds": 1,
+    "state": "CO"
+  },
+  {
+    "date": "2024-12-26",
+    "code": "AFF006",
+    "registrations": 2,
+    "ftds": 0,
+    "state": "CO"
+  },
+  {
+    "date": "2024-10-08",
+    "code": "AFF007",
+    "registrations": 17,
+    "ftds": 4,
+    "state": "CO"
+  },
+  {
+    "date": "2024-12-01",
+    "code": "AFF012",
+    "registrations": 37,
+    "ftds": 10,
+    "state": "CO"
+  },
+  {
+    "date": "2024-07-15",
+    "code": "AFF013",
+    "registrations": 34,
+    "ftds": 3,
+    "state": "CO"
+  },
+  {
+    "date": "2024-07-13",
+    "code": "AFF014",
+    "registrations": 10,
+    "ftds": 2,
+    "state": "CO"
+  },
+  {
+    "date": "2024-09-02",
+    "code": "AFF014",
+    "registrations": 30,
+    "ftds": 2,
+    "state": "CO"
+  },
+  {
+    "date": "2024-11-10",
+    "code": "AFF014",
+    "registrations": 19,
+    "ftds": 1,
+    "state": "CO"
+  },
+  {
+    "date": "2024-12-17",
+    "code": "AFF014",
+    "registrations": 20,
+    "ftds": 4,
+    "state": "CO"
+  },
+  {
+    "date": "2024-07-12",
+    "code": "AFF001",
+    "registrations": 22,
+    "ftds": 6,
+    "state": "CT"
+  },
+  {
+    "date": "2024-08-07",
+    "code": "AFF001",
+    "registrations": 18,
+    "ftds": 4,
+    "state": "CT"
+  },
+  {
+    "date": "2024-09-27",
+    "code": "AFF004",
+    "registrations": 24,
+    "ftds": 4,
+    "state": "CT"
+  },
+  {
+    "date": "2024-11-15",
+    "code": "AFF005",
+    "registrations": 28,
+    "ftds": 2,
+    "state": "CT"
+  },
+  {
+    "date": "2024-12-29",
+    "code": "AFF006",
+    "registrations": 18,
+    "ftds": 1,
+    "state": "CT"
+  },
+  {
+    "date": "2024-08-24",
+    "code": "AFF011",
+    "registrations": 17,
+    "ftds": 2,
+    "state": "CT"
+  },
+  {
+    "date": "2024-09-28",
+    "code": "AFF001",
+    "registrations": 10,
+    "ftds": 2,
+    "state": "FL"
+  },
+  {
+    "date": "2024-10-11",
+    "code": "AFF001",
+    "registrations": 2,
+    "ftds": 0,
+    "state": "FL"
+  },
+  {
+    "date": "2024-10-15",
+    "code": "AFF001",
+    "registrations": 27,
+    "ftds": 4,
+    "state": "FL"
+  },
+  {
+    "date": "2024-10-28",
+    "code": "AFF001",
+    "registrations": 15,
+    "ftds": 4,
+    "state": "FL"
+  },
+  {
+    "date": "2024-11-19",
+    "code": "AFF001",
+    "registrations": 1,
+    "ftds": 0,
+    "state": "FL"
+  },
+  {
+    "date": "2024-12-23",
+    "code": "AFF001",
+    "registrations": 10,
+    "ftds": 2,
+    "state": "FL"
+  },
+  {
+    "date": "2024-10-05",
+    "code": "AFF002",
+    "registrations": 12,
+    "ftds": 3,
+    "state": "FL"
+  },
+  {
+    "date": "2024-10-29",
+    "code": "AFF002",
+    "registrations": 30,
+    "ftds": 4,
+    "state": "FL"
+  },
+  {
+    "date": "2024-11-19",
+    "code": "AFF002",
+    "registrations": 27,
+    "ftds": 6,
+    "state": "FL"
+  },
+  {
+    "date": "2025-01-19",
+    "code": "AFF002",
+    "registrations": 12,
+    "ftds": 0,
+    "state": "FL"
+  },
+  {
+    "date": "2024-08-07",
+    "code": "AFF003",
+    "registrations": 12,
+    "ftds": 2,
+    "state": "FL"
+  },
+  {
+    "date": "2024-09-19",
+    "code": "AFF003",
+    "registrations": 21,
+    "ftds": 2,
+    "state": "FL"
+  },
+  {
+    "date": "2024-10-22",
+    "code": "AFF003",
+    "registrations": 38,
+    "ftds": 6,
+    "state": "FL"
+  },
+  {
+    "date": "2024-10-24",
+    "code": "AFF003",
+    "registrations": 7,
+    "ftds": 0,
+    "state": "FL"
+  },
+  {
+    "date": "2024-11-01",
+    "code": "AFF005",
+    "registrations": 22,
+    "ftds": 5,
+    "state": "FL"
+  },
+  {
+    "date": "2024-11-10",
+    "code": "AFF005",
+    "registrations": 39,
+    "ftds": 12,
+    "state": "FL"
+  },
+  {
+    "date": "2024-10-30",
+    "code": "AFF006",
+    "registrations": 4,
+    "ftds": 0,
+    "state": "FL"
+  },
+  {
+    "date": "2025-01-13",
+    "code": "AFF006",
+    "registrations": 15,
+    "ftds": 5,
+    "state": "FL"
+  },
+  {
+    "date": "2024-10-30",
+    "code": "AFF007",
+    "registrations": 17,
+    "ftds": 3,
+    "state": "FL"
+  },
+  {
+    "date": "2024-11-29",
+    "code": "AFF007",
+    "registrations": 11,
+    "ftds": 2,
+    "state": "FL"
+  },
+  {
+    "date": "2024-12-09",
+    "code": "AFF007",
+    "registrations": 25,
+    "ftds": 4,
+    "state": "FL"
+  },
+  {
+    "date": "2025-01-12",
+    "code": "AFF007",
+    "registrations": 38,
+    "ftds": 4,
+    "state": "FL"
+  },
+  {
+    "date": "2024-07-31",
+    "code": "AFF010",
+    "registrations": 21,
+    "ftds": 1,
+    "state": "FL"
+  },
+  {
+    "date": "2025-01-07",
+    "code": "AFF010",
+    "registrations": 27,
+    "ftds": 6,
+    "state": "FL"
+  },
+  {
+    "date": "2024-08-18",
+    "code": "AFF011",
+    "registrations": 32,
+    "ftds": 11,
+    "state": "FL"
+  },
+  {
+    "date": "2025-01-12",
+    "code": "AFF011",
+    "registrations": 31,
+    "ftds": 6,
+    "state": "FL"
+  },
+  {
+    "date": "2024-09-08",
+    "code": "AFF013",
+    "registrations": 17,
+    "ftds": 5,
+    "state": "FL"
+  },
+  {
+    "date": "2024-08-30",
+    "code": "AFF014",
+    "registrations": 12,
+    "ftds": 3,
+    "state": "FL"
+  },
+  {
+    "date": "2024-09-15",
+    "code": "AFF014",
+    "registrations": 12,
+    "ftds": 3,
+    "state": "FL"
+  },
+  {
+    "date": "2024-09-21",
+    "code": "AFF014",
+    "registrations": 16,
+    "ftds": 3,
+    "state": "FL"
+  },
+  {
+    "date": "2024-11-03",
+    "code": "AFF014",
+    "registrations": 29,
+    "ftds": 6,
+    "state": "FL"
+  },
+  {
+    "date": "2024-09-16",
+    "code": "AFF001",
+    "registrations": 8,
+    "ftds": 1,
+    "state": "GA"
+  },
+  {
+    "date": "2024-11-27",
+    "code": "AFF002",
+    "registrations": 30,
+    "ftds": 7,
+    "state": "GA"
+  },
+  {
+    "date": "2024-07-05",
+    "code": "AFF003",
+    "registrations": 10,
+    "ftds": 2,
+    "state": "GA"
+  },
+  {
+    "date": "2024-07-24",
+    "code": "AFF003",
+    "registrations": 26,
+    "ftds": 6,
+    "state": "GA"
+  },
+  {
+    "date": "2024-07-28",
+    "code": "AFF003",
+    "registrations": 30,
+    "ftds": 2,
+    "state": "GA"
+  },
+  {
+    "date": "2024-07-18",
+    "code": "AFF004",
+    "registrations": 7,
+    "ftds": 1,
+    "state": "GA"
+  },
+  {
+    "date": "2024-09-16",
+    "code": "AFF005",
+    "registrations": 26,
+    "ftds": 3,
+    "state": "GA"
+  },
+  {
+    "date": "2024-11-02",
+    "code": "AFF005",
+    "registrations": 26,
+    "ftds": 8,
+    "state": "GA"
+  },
+  {
+    "date": "2024-12-16",
+    "code": "AFF005",
+    "registrations": 7,
+    "ftds": 1,
+    "state": "GA"
+  },
+  {
+    "date": "2024-12-28",
+    "code": "AFF005",
+    "registrations": 40,
+    "ftds": 5,
+    "state": "GA"
+  },
+  {
+    "date": "2024-08-26",
+    "code": "AFF006",
+    "registrations": 18,
+    "ftds": 3,
+    "state": "GA"
+  },
+  {
+    "date": "2024-11-14",
+    "code": "AFF010",
+    "registrations": 11,
+    "ftds": 2,
+    "state": "GA"
+  },
+  {
+    "date": "2025-01-26",
+    "code": "AFF011",
+    "registrations": 20,
+    "ftds": 2,
+    "state": "GA"
+  },
+  {
+    "date": "2024-12-03",
+    "code": "AFF012",
+    "registrations": 11,
+    "ftds": 1,
+    "state": "GA"
+  },
+  {
+    "date": "2024-07-21",
+    "code": "AFF014",
+    "registrations": 7,
+    "ftds": 1,
+    "state": "GA"
+  },
+  {
+    "date": "2024-08-12",
+    "code": "AFF002",
+    "registrations": 15,
+    "ftds": 2,
+    "state": "IA"
+  },
+  {
+    "date": "2024-09-05",
+    "code": "AFF004",
+    "registrations": 14,
+    "ftds": 2,
+    "state": "IA"
+  },
+  {
+    "date": "2024-10-13",
+    "code": "AFF004",
+    "registrations": 7,
+    "ftds": 2,
+    "state": "IA"
+  },
+  {
+    "date": "2024-09-19",
+    "code": "AFF005",
+    "registrations": 17,
+    "ftds": 2,
+    "state": "IA"
+  },
+  {
+    "date": "2024-12-18",
+    "code": "AFF005",
+    "registrations": 26,
+    "ftds": 6,
+    "state": "IA"
+  },
+  {
+    "date": "2024-08-30",
+    "code": "AFF007",
+    "registrations": 2,
+    "ftds": 0,
+    "state": "IA"
+  },
+  {
+    "date": "2024-10-19",
+    "code": "AFF010",
+    "registrations": 39,
+    "ftds": 4,
+    "state": "IA"
+  },
+  {
+    "date": "2024-07-09",
+    "code": "AFF012",
+    "registrations": 26,
+    "ftds": 3,
+    "state": "IA"
+  },
+  {
+    "date": "2025-01-03",
+    "code": "AFF012",
+    "registrations": 28,
+    "ftds": 6,
+    "state": "IA"
+  },
+  {
+    "date": "2024-08-10",
+    "code": "AFF013",
+    "registrations": 37,
+    "ftds": 9,
+    "state": "IA"
+  },
+  {
+    "date": "2024-07-20",
+    "code": "AFF014",
+    "registrations": 37,
+    "ftds": 6,
+    "state": "IA"
+  },
+  {
+    "date": "2024-11-04",
+    "code": "AFF014",
+    "registrations": 12,
+    "ftds": 2,
+    "state": "IA"
+  },
+  {
+    "date": "2024-08-09",
+    "code": "AFF001",
+    "registrations": 7,
+    "ftds": 1,
+    "state": "IL"
+  },
+  {
+    "date": "2024-10-19",
+    "code": "AFF001",
+    "registrations": 38,
+    "ftds": 7,
+    "state": "IL"
+  },
+  {
+    "date": "2024-11-30",
+    "code": "AFF001",
+    "registrations": 10,
+    "ftds": 3,
+    "state": "IL"
+  },
+  {
+    "date": "2025-01-20",
+    "code": "AFF001",
+    "registrations": 23,
+    "ftds": 3,
+    "state": "IL"
+  },
+  {
+    "date": "2025-01-29",
+    "code": "AFF001",
+    "registrations": 29,
+    "ftds": 3,
+    "state": "IL"
+  },
+  {
+    "date": "2024-07-23",
+    "code": "AFF003",
+    "registrations": 21,
+    "ftds": 1,
+    "state": "IL"
+  },
+  {
+    "date": "2024-08-09",
+    "code": "AFF003",
+    "registrations": 39,
+    "ftds": 4,
+    "state": "IL"
+  },
+  {
+    "date": "2024-09-01",
+    "code": "AFF004",
+    "registrations": 11,
+    "ftds": 1,
+    "state": "IL"
+  },
+  {
+    "date": "2024-11-17",
+    "code": "AFF005",
+    "registrations": 3,
+    "ftds": 0,
+    "state": "IL"
+  },
+  {
+    "date": "2024-12-27",
+    "code": "AFF005",
+    "registrations": 20,
+    "ftds": 2,
+    "state": "IL"
+  },
+  {
+    "date": "2025-01-06",
+    "code": "AFF005",
+    "registrations": 38,
+    "ftds": 13,
+    "state": "IL"
+  },
+  {
+    "date": "2025-01-29",
+    "code": "AFF005",
+    "registrations": 6,
+    "ftds": 1,
+    "state": "IL"
+  },
+  {
+    "date": "2024-11-30",
+    "code": "AFF006",
+    "registrations": 30,
+    "ftds": 6,
+    "state": "IL"
+  },
+  {
+    "date": "2025-01-18",
+    "code": "AFF006",
+    "registrations": 1,
+    "ftds": 0,
+    "state": "IL"
+  },
+  {
+    "date": "2025-01-21",
+    "code": "AFF006",
+    "registrations": 6,
+    "ftds": 1,
+    "state": "IL"
+  },
+  {
+    "date": "2024-07-14",
+    "code": "AFF007",
+    "registrations": 9,
+    "ftds": 2,
+    "state": "IL"
+  },
+  {
+    "date": "2024-11-12",
+    "code": "AFF007",
+    "registrations": 7,
+    "ftds": 2,
+    "state": "IL"
+  },
+  {
+    "date": "2024-12-10",
+    "code": "AFF007",
+    "registrations": 9,
+    "ftds": 2,
+    "state": "IL"
+  },
+  {
+    "date": "2025-01-04",
+    "code": "AFF007",
+    "registrations": 21,
+    "ftds": 6,
+    "state": "IL"
+  },
+  {
+    "date": "2025-01-12",
+    "code": "AFF007",
+    "registrations": 40,
+    "ftds": 10,
+    "state": "IL"
+  },
+  {
+    "date": "2024-08-18",
+    "code": "AFF008",
+    "registrations": 9,
+    "ftds": 2,
+    "state": "IL"
+  },
+  {
+    "date": "2024-10-17",
+    "code": "AFF009",
+    "registrations": 30,
+    "ftds": 9,
+    "state": "IL"
+  },
+  {
+    "date": "2024-07-20",
+    "code": "AFF010",
+    "registrations": 16,
+    "ftds": 2,
+    "state": "IL"
+  },
+  {
+    "date": "2024-09-12",
+    "code": "AFF010",
+    "registrations": 30,
+    "ftds": 2,
+    "state": "IL"
+  },
+  {
+    "date": "2024-07-18",
+    "code": "AFF011",
+    "registrations": 23,
+    "ftds": 5,
+    "state": "IL"
+  },
+  {
+    "date": "2024-10-27",
+    "code": "AFF011",
+    "registrations": 25,
+    "ftds": 5,
+    "state": "IL"
+  },
+  {
+    "date": "2024-09-29",
+    "code": "AFF012",
+    "registrations": 22,
+    "ftds": 2,
+    "state": "IL"
+  },
+  {
+    "date": "2024-11-01",
+    "code": "AFF012",
+    "registrations": 22,
+    "ftds": 6,
+    "state": "IL"
+  },
+  {
+    "date": "2024-10-17",
+    "code": "AFF013",
+    "registrations": 3,
+    "ftds": 0,
+    "state": "IL"
+  },
+  {
+    "date": "2024-08-05",
+    "code": "AFF014",
+    "registrations": 4,
+    "ftds": 0,
+    "state": "IL"
+  },
+  {
+    "date": "2024-10-28",
+    "code": "AFF015",
+    "registrations": 35,
+    "ftds": 3,
+    "state": "IL"
+  },
+  {
+    "date": "2024-11-10",
+    "code": "AFF015",
+    "registrations": 6,
+    "ftds": 0,
+    "state": "IL"
+  },
+  {
+    "date": "2024-07-23",
+    "code": "AFF001",
+    "registrations": 26,
+    "ftds": 9,
+    "state": "IN"
+  },
+  {
+    "date": "2024-08-02",
+    "code": "AFF001",
+    "registrations": 24,
+    "ftds": 7,
+    "state": "IN"
+  },
+  {
+    "date": "2024-12-29",
+    "code": "AFF001",
+    "registrations": 36,
+    "ftds": 5,
+    "state": "IN"
+  },
+  {
+    "date": "2024-09-12",
+    "code": "AFF003",
+    "registrations": 8,
+    "ftds": 0,
+    "state": "IN"
+  },
+  {
+    "date": "2024-08-10",
+    "code": "AFF004",
+    "registrations": 21,
+    "ftds": 5,
+    "state": "IN"
+  },
+  {
+    "date": "2024-11-28",
+    "code": "AFF005",
+    "registrations": 37,
+    "ftds": 8,
+    "state": "IN"
+  },
+  {
+    "date": "2024-11-17",
+    "code": "AFF010",
+    "registrations": 40,
+    "ftds": 13,
+    "state": "IN"
+  },
+  {
+    "date": "2024-08-12",
+    "code": "AFF012",
+    "registrations": 39,
+    "ftds": 10,
+    "state": "IN"
+  },
+  {
+    "date": "2025-01-29",
+    "code": "AFF012",
+    "registrations": 16,
+    "ftds": 1,
+    "state": "IN"
+  },
+  {
+    "date": "2024-07-08",
+    "code": "AFF004",
+    "registrations": 26,
+    "ftds": 6,
+    "state": "KS"
+  },
+  {
+    "date": "2025-01-13",
+    "code": "AFF008",
+    "registrations": 8,
+    "ftds": 1,
+    "state": "KS"
+  },
+  {
+    "date": "2024-08-25",
+    "code": "AFF011",
+    "registrations": 7,
+    "ftds": 0,
+    "state": "KS"
+  },
+  {
+    "date": "2025-01-05",
+    "code": "AFF011",
+    "registrations": 9,
+    "ftds": 0,
+    "state": "KS"
+  },
+  {
+    "date": "2024-07-09",
+    "code": "AFF014",
+    "registrations": 5,
+    "ftds": 1,
+    "state": "KS"
+  },
+  {
+    "date": "2024-11-29",
+    "code": "AFF001",
+    "registrations": 33,
+    "ftds": 2,
+    "state": "KY"
+  },
+  {
+    "date": "2024-08-18",
+    "code": "AFF003",
+    "registrations": 4,
+    "ftds": 1,
+    "state": "KY"
+  },
+  {
+    "date": "2025-01-15",
+    "code": "AFF004",
+    "registrations": 10,
+    "ftds": 1,
+    "state": "KY"
+  },
+  {
+    "date": "2024-08-25",
+    "code": "AFF007",
+    "registrations": 4,
+    "ftds": 0,
+    "state": "KY"
+  },
+  {
+    "date": "2024-10-06",
+    "code": "AFF007",
+    "registrations": 37,
+    "ftds": 5,
+    "state": "KY"
+  },
+  {
+    "date": "2024-09-14",
+    "code": "AFF002",
+    "registrations": 12,
+    "ftds": 1,
+    "state": "LA"
+  },
+  {
+    "date": "2024-12-04",
+    "code": "AFF002",
+    "registrations": 24,
+    "ftds": 7,
+    "state": "LA"
+  },
+  {
+    "date": "2024-07-12",
+    "code": "AFF005",
+    "registrations": 16,
+    "ftds": 5,
+    "state": "LA"
+  },
+  {
+    "date": "2024-07-09",
+    "code": "AFF007",
+    "registrations": 9,
+    "ftds": 0,
+    "state": "LA"
+  },
+  {
+    "date": "2025-01-22",
+    "code": "AFF007",
+    "registrations": 6,
+    "ftds": 1,
+    "state": "LA"
+  },
+  {
+    "date": "2024-09-06",
+    "code": "AFF010",
+    "registrations": 26,
+    "ftds": 4,
+    "state": "LA"
+  },
+  {
+    "date": "2024-09-28",
+    "code": "AFF001",
+    "registrations": 4,
+    "ftds": 0,
+    "state": "MA"
+  },
+  {
+    "date": "2024-07-17",
+    "code": "AFF005",
+    "registrations": 22,
+    "ftds": 4,
+    "state": "MA"
+  },
+  {
+    "date": "2024-07-04",
+    "code": "AFF007",
+    "registrations": 6,
+    "ftds": 0,
+    "state": "MA"
+  },
+  {
+    "date": "2024-08-31",
+    "code": "AFF007",
+    "registrations": 12,
+    "ftds": 2,
+    "state": "MA"
+  },
+  {
+    "date": "2025-01-13",
+    "code": "AFF007",
+    "registrations": 40,
+    "ftds": 9,
+    "state": "MA"
+  },
+  {
+    "date": "2024-09-16",
+    "code": "AFF008",
+    "registrations": 8,
+    "ftds": 0,
+    "state": "MA"
+  },
+  {
+    "date": "2024-12-16",
+    "code": "AFF002",
+    "registrations": 22,
+    "ftds": 2,
+    "state": "MD"
+  },
+  {
+    "date": "2024-11-13",
+    "code": "AFF004",
+    "registrations": 21,
+    "ftds": 5,
+    "state": "MD"
+  },
+  {
+    "date": "2025-01-28",
+    "code": "AFF005",
+    "registrations": 27,
+    "ftds": 7,
+    "state": "MD"
+  },
+  {
+    "date": "2024-09-16",
+    "code": "AFF009",
+    "registrations": 18,
+    "ftds": 3,
+    "state": "MD"
+  },
+  {
+    "date": "2024-11-08",
+    "code": "AFF001",
+    "registrations": 37,
+    "ftds": 3,
+    "state": "ME"
+  },
+  {
+    "date": "2024-11-13",
+    "code": "AFF002",
+    "registrations": 27,
+    "ftds": 5,
+    "state": "ME"
+  },
+  {
+    "date": "2024-11-15",
+    "code": "AFF002",
+    "registrations": 30,
+    "ftds": 4,
+    "state": "ME"
+  },
+  {
+    "date": "2024-10-04",
+    "code": "AFF003",
+    "registrations": 6,
+    "ftds": 0,
+    "state": "ME"
+  },
+  {
+    "date": "2025-01-12",
+    "code": "AFF007",
+    "registrations": 31,
+    "ftds": 1,
+    "state": "ME"
+  },
+  {
+    "date": "2024-12-12",
+    "code": "AFF001",
+    "registrations": 30,
+    "ftds": 7,
+    "state": "MI"
+  },
+  {
+    "date": "2025-01-06",
+    "code": "AFF001",
+    "registrations": 2,
+    "ftds": 0,
+    "state": "MI"
+  },
+  {
+    "date": "2024-07-28",
+    "code": "AFF003",
+    "registrations": 38,
+    "ftds": 6,
+    "state": "MI"
+  },
+  {
+    "date": "2024-08-06",
+    "code": "AFF003",
+    "registrations": 1,
+    "ftds": 0,
+    "state": "MI"
+  },
+  {
+    "date": "2024-08-11",
+    "code": "AFF003",
+    "registrations": 33,
+    "ftds": 3,
+    "state": "MI"
+  },
+  {
+    "date": "2024-11-23",
+    "code": "AFF003",
+    "registrations": 8,
+    "ftds": 1,
+    "state": "MI"
+  },
+  {
+    "date": "2024-10-03",
+    "code": "AFF004",
+    "registrations": 5,
+    "ftds": 1,
+    "state": "MI"
+  },
+  {
+    "date": "2024-10-22",
+    "code": "AFF004",
+    "registrations": 3,
+    "ftds": 0,
+    "state": "MI"
+  },
+  {
+    "date": "2024-11-11",
+    "code": "AFF004",
+    "registrations": 29,
+    "ftds": 4,
+    "state": "MI"
+  },
+  {
+    "date": "2024-11-13",
+    "code": "AFF004",
+    "registrations": 36,
+    "ftds": 5,
+    "state": "MI"
+  },
+  {
+    "date": "2024-07-18",
+    "code": "AFF005",
+    "registrations": 20,
+    "ftds": 5,
+    "state": "MI"
+  },
+  {
+    "date": "2024-08-25",
+    "code": "AFF005",
+    "registrations": 15,
+    "ftds": 2,
+    "state": "MI"
+  },
+  {
+    "date": "2024-09-21",
+    "code": "AFF005",
+    "registrations": 29,
+    "ftds": 7,
+    "state": "MI"
+  },
+  {
+    "date": "2024-10-29",
+    "code": "AFF005",
+    "registrations": 22,
+    "ftds": 2,
+    "state": "MI"
+  },
+  {
+    "date": "2024-09-27",
+    "code": "AFF006",
+    "registrations": 24,
+    "ftds": 1,
+    "state": "MI"
+  },
+  {
+    "date": "2025-01-08",
+    "code": "AFF007",
+    "registrations": 38,
+    "ftds": 6,
+    "state": "MI"
+  },
+  {
+    "date": "2025-01-11",
+    "code": "AFF007",
+    "registrations": 37,
+    "ftds": 8,
+    "state": "MI"
+  },
+  {
+    "date": "2024-09-29",
+    "code": "AFF008",
+    "registrations": 18,
+    "ftds": 4,
+    "state": "MI"
+  },
+  {
+    "date": "2024-11-05",
+    "code": "AFF008",
+    "registrations": 4,
+    "ftds": 0,
+    "state": "MI"
+  },
+  {
+    "date": "2024-07-25",
+    "code": "AFF009",
+    "registrations": 23,
+    "ftds": 4,
+    "state": "MI"
+  },
+  {
+    "date": "2024-08-10",
+    "code": "AFF009",
+    "registrations": 22,
+    "ftds": 2,
+    "state": "MI"
+  },
+  {
+    "date": "2025-01-19",
+    "code": "AFF009",
+    "registrations": 39,
+    "ftds": 2,
+    "state": "MI"
+  },
+  {
+    "date": "2024-07-12",
+    "code": "AFF010",
+    "registrations": 1,
+    "ftds": 0,
+    "state": "MI"
+  },
+  {
+    "date": "2024-10-11",
+    "code": "AFF010",
+    "registrations": 25,
+    "ftds": 3,
+    "state": "MI"
+  },
+  {
+    "date": "2025-01-10",
+    "code": "AFF015",
+    "registrations": 40,
+    "ftds": 11,
+    "state": "MI"
+  },
+  {
+    "date": "2024-11-07",
+    "code": "AFF004",
+    "registrations": 38,
+    "ftds": 8,
+    "state": "MN"
+  },
+  {
+    "date": "2024-11-24",
+    "code": "AFF004",
+    "registrations": 36,
+    "ftds": 3,
+    "state": "MN"
+  },
+  {
+    "date": "2024-10-06",
+    "code": "AFF007",
+    "registrations": 34,
+    "ftds": 4,
+    "state": "MN"
+  },
+  {
+    "date": "2025-01-17",
+    "code": "AFF012",
+    "registrations": 19,
+    "ftds": 3,
+    "state": "MN"
+  },
+  {
+    "date": "2025-01-07",
+    "code": "AFF001",
+    "registrations": 29,
+    "ftds": 8,
+    "state": "MO"
+  },
+  {
+    "date": "2024-08-31",
+    "code": "AFF002",
+    "registrations": 8,
+    "ftds": 1,
+    "state": "MO"
+  },
+  {
+    "date": "2024-11-22",
+    "code": "AFF003",
+    "registrations": 2,
+    "ftds": 0,
+    "state": "MO"
+  },
+  {
+    "date": "2024-12-24",
+    "code": "AFF007",
+    "registrations": 19,
+    "ftds": 1,
+    "state": "MO"
+  },
+  {
+    "date": "2024-11-15",
+    "code": "AFF011",
+    "registrations": 30,
+    "ftds": 5,
+    "state": "MO"
+  },
+  {
+    "date": "2024-09-12",
+    "code": "AFF013",
+    "registrations": 9,
+    "ftds": 2,
+    "state": "MO"
+  },
+  {
+    "date": "2024-10-08",
+    "code": "AFF014",
+    "registrations": 3,
+    "ftds": 0,
+    "state": "MO"
+  },
+  {
+    "date": "2024-07-31",
+    "code": "AFF001",
+    "registrations": 28,
+    "ftds": 2,
+    "state": "MT"
+  },
+  {
+    "date": "2024-07-10",
+    "code": "AFF003",
+    "registrations": 8,
+    "ftds": 0,
+    "state": "MT"
+  },
+  {
+    "date": "2024-07-17",
+    "code": "AFF004",
+    "registrations": 5,
+    "ftds": 1,
+    "state": "MT"
+  },
+  {
+    "date": "2024-12-17",
+    "code": "AFF005",
+    "registrations": 39,
+    "ftds": 7,
+    "state": "MT"
+  },
+  {
+    "date": "2025-01-14",
+    "code": "AFF008",
+    "registrations": 30,
+    "ftds": 8,
+    "state": "MT"
+  },
+  {
+    "date": "2024-09-10",
+    "code": "AFF009",
+    "registrations": 14,
+    "ftds": 2,
+    "state": "MT"
+  },
+  {
+    "date": "2024-12-13",
+    "code": "AFF010",
+    "registrations": 29,
+    "ftds": 8,
+    "state": "MT"
+  },
+  {
+    "date": "2024-08-30",
+    "code": "AFF012",
+    "registrations": 2,
+    "ftds": 0,
+    "state": "MT"
+  },
+  {
+    "date": "2024-09-12",
+    "code": "AFF001",
+    "registrations": 6,
+    "ftds": 1,
+    "state": "NC"
+  },
+  {
+    "date": "2024-09-01",
+    "code": "AFF002",
+    "registrations": 1,
+    "ftds": 0,
+    "state": "NC"
+  },
+  {
+    "date": "2024-09-29",
+    "code": "AFF002",
+    "registrations": 18,
+    "ftds": 4,
+    "state": "NC"
+  },
+  {
+    "date": "2024-10-10",
+    "code": "AFF002",
+    "registrations": 20,
+    "ftds": 3,
+    "state": "NC"
+  },
+  {
+    "date": "2024-10-26",
+    "code": "AFF003",
+    "registrations": 1,
+    "ftds": 0,
+    "state": "NC"
+  },
+  {
+    "date": "2024-08-19",
+    "code": "AFF004",
+    "registrations": 37,
+    "ftds": 12,
+    "state": "NC"
+  },
+  {
+    "date": "2024-07-21",
+    "code": "AFF005",
+    "registrations": 38,
+    "ftds": 8,
+    "state": "NC"
+  },
+  {
+    "date": "2024-07-22",
+    "code": "AFF006",
+    "registrations": 12,
+    "ftds": 0,
+    "state": "NC"
+  },
+  {
+    "date": "2024-09-11",
+    "code": "AFF006",
+    "registrations": 40,
+    "ftds": 6,
+    "state": "NC"
+  },
+  {
+    "date": "2024-07-25",
+    "code": "AFF007",
+    "registrations": 25,
+    "ftds": 3,
+    "state": "NC"
+  },
+  {
+    "date": "2024-09-18",
+    "code": "AFF007",
+    "registrations": 25,
+    "ftds": 4,
+    "state": "NC"
+  },
+  {
+    "date": "2025-01-24",
+    "code": "AFF007",
+    "registrations": 13,
+    "ftds": 1,
+    "state": "NC"
+  },
+  {
+    "date": "2024-10-11",
+    "code": "AFF009",
+    "registrations": 24,
+    "ftds": 4,
+    "state": "NC"
+  },
+  {
+    "date": "2024-12-20",
+    "code": "AFF010",
+    "registrations": 17,
+    "ftds": 3,
+    "state": "NC"
+  },
+  {
+    "date": "2025-01-22",
+    "code": "AFF010",
+    "registrations": 11,
+    "ftds": 3,
+    "state": "NC"
+  },
+  {
+    "date": "2024-07-06",
+    "code": "AFF011",
+    "registrations": 18,
+    "ftds": 4,
+    "state": "NC"
+  },
+  {
+    "date": "2025-01-11",
+    "code": "AFF011",
+    "registrations": 5,
+    "ftds": 0,
+    "state": "NC"
+  },
+  {
+    "date": "2024-10-14",
+    "code": "AFF012",
+    "registrations": 16,
+    "ftds": 2,
+    "state": "NC"
+  },
+  {
+    "date": "2024-09-23",
+    "code": "AFF014",
+    "registrations": 35,
+    "ftds": 5,
+    "state": "NC"
+  },
+  {
+    "date": "2025-01-02",
+    "code": "AFF014",
+    "registrations": 39,
+    "ftds": 12,
+    "state": "NC"
+  },
+  {
+    "date": "2024-07-10",
+    "code": "AFF002",
+    "registrations": 38,
+    "ftds": 5,
+    "state": "NE"
+  },
+  {
+    "date": "2024-08-26",
+    "code": "AFF002",
+    "registrations": 32,
+    "ftds": 2,
+    "state": "NE"
+  },
+  {
+    "date": "2025-01-12",
+    "code": "AFF002",
+    "registrations": 7,
+    "ftds": 2,
+    "state": "NE"
+  },
+  {
+    "date": "2024-09-19",
+    "code": "AFF003",
+    "registrations": 26,
+    "ftds": 9,
+    "state": "NE"
+  },
+  {
+    "date": "2024-07-24",
+    "code": "AFF004",
+    "registrations": 30,
+    "ftds": 10,
+    "state": "NE"
+  },
+  {
+    "date": "2024-11-27",
+    "code": "AFF005",
+    "registrations": 34,
+    "ftds": 3,
+    "state": "NE"
+  },
+  {
+    "date": "2024-12-19",
+    "code": "AFF005",
+    "registrations": 24,
+    "ftds": 1,
+    "state": "NE"
+  },
+  {
+    "date": "2024-11-12",
+    "code": "AFF006",
+    "registrations": 33,
+    "ftds": 7,
+    "state": "NE"
+  },
+  {
+    "date": "2024-08-20",
+    "code": "AFF007",
+    "registrations": 26,
+    "ftds": 5,
+    "state": "NE"
+  },
+  {
+    "date": "2024-07-05",
+    "code": "AFF008",
+    "registrations": 37,
+    "ftds": 4,
+    "state": "NE"
+  },
+  {
+    "date": "2024-11-07",
+    "code": "AFF013",
+    "registrations": 35,
+    "ftds": 6,
+    "state": "NE"
+  },
+  {
+    "date": "2024-07-04",
+    "code": "AFF003",
+    "registrations": 8,
+    "ftds": 1,
+    "state": "NH"
+  },
+  {
+    "date": "2024-12-23",
+    "code": "AFF004",
+    "registrations": 23,
+    "ftds": 1,
+    "state": "NH"
+  },
+  {
+    "date": "2025-01-30",
+    "code": "AFF005",
+    "registrations": 35,
+    "ftds": 10,
+    "state": "NH"
+  },
+  {
+    "date": "2024-12-14",
+    "code": "AFF009",
+    "registrations": 27,
+    "ftds": 3,
+    "state": "NH"
+  },
+  {
+    "date": "2024-08-03",
+    "code": "AFF012",
+    "registrations": 24,
+    "ftds": 5,
+    "state": "NH"
+  },
+  {
+    "date": "2024-09-20",
+    "code": "AFF015",
+    "registrations": 6,
+    "ftds": 0,
+    "state": "NH"
+  },
+  {
+    "date": "2024-10-05",
+    "code": "AFF001",
+    "registrations": 19,
+    "ftds": 5,
+    "state": "NJ"
+  },
+  {
+    "date": "2024-12-29",
+    "code": "AFF001",
+    "registrations": 35,
+    "ftds": 4,
+    "state": "NJ"
+  },
+  {
+    "date": "2024-09-16",
+    "code": "AFF004",
+    "registrations": 1,
+    "ftds": 0,
+    "state": "NJ"
+  },
+  {
+    "date": "2024-09-27",
+    "code": "AFF004",
+    "registrations": 35,
+    "ftds": 5,
+    "state": "NJ"
+  },
+  {
+    "date": "2025-01-20",
+    "code": "AFF004",
+    "registrations": 24,
+    "ftds": 6,
+    "state": "NJ"
+  },
+  {
+    "date": "2024-09-01",
+    "code": "AFF005",
+    "registrations": 10,
+    "ftds": 1,
+    "state": "NJ"
+  },
+  {
+    "date": "2024-11-28",
+    "code": "AFF007",
+    "registrations": 22,
+    "ftds": 5,
+    "state": "NJ"
+  },
+  {
+    "date": "2025-01-04",
+    "code": "AFF012",
+    "registrations": 32,
+    "ftds": 3,
+    "state": "NJ"
+  },
+  {
+    "date": "2024-09-29",
+    "code": "AFF001",
+    "registrations": 33,
+    "ftds": 3,
+    "state": "NM"
+  },
+  {
+    "date": "2024-10-11",
+    "code": "AFF001",
+    "registrations": 36,
+    "ftds": 3,
+    "state": "NM"
+  },
+  {
+    "date": "2024-10-09",
+    "code": "AFF007",
+    "registrations": 2,
+    "ftds": 0,
+    "state": "NM"
+  },
+  {
+    "date": "2024-12-12",
+    "code": "AFF011",
+    "registrations": 17,
+    "ftds": 4,
+    "state": "NM"
+  },
+  {
+    "date": "2024-08-02",
+    "code": "AFF012",
+    "registrations": 14,
+    "ftds": 0,
+    "state": "NM"
+  },
+  {
+    "date": "2025-01-02",
+    "code": "AFF015",
+    "registrations": 37,
+    "ftds": 7,
+    "state": "NM"
+  },
+  {
+    "date": "2024-12-10",
+    "code": "AFF001",
+    "registrations": 33,
+    "ftds": 3,
+    "state": "NV"
+  },
+  {
+    "date": "2024-07-14",
+    "code": "AFF002",
+    "registrations": 24,
+    "ftds": 5,
+    "state": "NV"
+  },
+  {
+    "date": "2024-08-07",
+    "code": "AFF003",
+    "registrations": 27,
+    "ftds": 5,
+    "state": "NV"
+  },
+  {
+    "date": "2025-01-01",
+    "code": "AFF005",
+    "registrations": 27,
+    "ftds": 7,
+    "state": "NV"
+  },
+  {
+    "date": "2025-01-03",
+    "code": "AFF007",
+    "registrations": 28,
+    "ftds": 2,
+    "state": "NV"
+  },
+  {
+    "date": "2025-01-23",
+    "code": "AFF008",
+    "registrations": 1,
+    "ftds": 0,
+    "state": "NV"
+  },
+  {
+    "date": "2024-10-27",
+    "code": "AFF009",
+    "registrations": 36,
+    "ftds": 8,
+    "state": "NV"
+  },
+  {
+    "date": "2025-01-22",
+    "code": "AFF009",
+    "registrations": 30,
+    "ftds": 1,
+    "state": "NV"
+  },
+  {
+    "date": "2024-09-24",
+    "code": "AFF001",
+    "registrations": 10,
+    "ftds": 3,
+    "state": "NY"
+  },
+  {
+    "date": "2024-09-25",
+    "code": "AFF001",
+    "registrations": 36,
+    "ftds": 4,
+    "state": "NY"
+  },
+  {
+    "date": "2024-11-23",
+    "code": "AFF001",
+    "registrations": 10,
+    "ftds": 2,
+    "state": "NY"
+  },
+  {
+    "date": "2025-01-14",
+    "code": "AFF002",
+    "registrations": 17,
+    "ftds": 1,
+    "state": "NY"
+  },
+  {
+    "date": "2024-11-23",
+    "code": "AFF003",
+    "registrations": 39,
+    "ftds": 2,
+    "state": "NY"
+  },
+  {
+    "date": "2024-09-06",
+    "code": "AFF004",
+    "registrations": 26,
+    "ftds": 6,
+    "state": "NY"
+  },
+  {
+    "date": "2025-01-30",
+    "code": "AFF004",
+    "registrations": 36,
+    "ftds": 3,
+    "state": "NY"
+  },
+  {
+    "date": "2024-07-21",
+    "code": "AFF005",
+    "registrations": 12,
+    "ftds": 2,
+    "state": "NY"
+  },
+  {
+    "date": "2024-09-17",
+    "code": "AFF005",
+    "registrations": 28,
+    "ftds": 2,
+    "state": "NY"
+  },
+  {
+    "date": "2024-10-29",
+    "code": "AFF005",
+    "registrations": 1,
+    "ftds": 0,
+    "state": "NY"
+  },
+  {
+    "date": "2024-11-11",
+    "code": "AFF006",
+    "registrations": 16,
+    "ftds": 2,
+    "state": "NY"
+  },
+  {
+    "date": "2025-01-30",
+    "code": "AFF006",
+    "registrations": 27,
+    "ftds": 8,
+    "state": "NY"
+  },
+  {
+    "date": "2024-08-12",
+    "code": "AFF007",
+    "registrations": 8,
+    "ftds": 2,
+    "state": "NY"
+  },
+  {
+    "date": "2024-10-15",
+    "code": "AFF007",
+    "registrations": 40,
+    "ftds": 4,
+    "state": "NY"
+  },
+  {
+    "date": "2024-10-27",
+    "code": "AFF007",
+    "registrations": 25,
+    "ftds": 3,
+    "state": "NY"
+  },
+  {
+    "date": "2025-01-26",
+    "code": "AFF008",
+    "registrations": 36,
+    "ftds": 2,
+    "state": "NY"
+  },
+  {
+    "date": "2024-09-17",
+    "code": "AFF009",
+    "registrations": 24,
+    "ftds": 4,
+    "state": "NY"
+  },
+  {
+    "date": "2024-10-12",
+    "code": "AFF010",
+    "registrations": 27,
+    "ftds": 3,
+    "state": "NY"
+  },
+  {
+    "date": "2024-07-26",
+    "code": "AFF011",
+    "registrations": 7,
+    "ftds": 1,
+    "state": "NY"
+  },
+  {
+    "date": "2024-07-14",
+    "code": "AFF012",
+    "registrations": 22,
+    "ftds": 1,
+    "state": "NY"
+  },
+  {
+    "date": "2024-09-15",
+    "code": "AFF013",
+    "registrations": 71,
+    "ftds": 20,
+    "state": "NY"
+  },
+  {
+    "date": "2024-08-06",
+    "code": "AFF014",
+    "registrations": 29,
+    "ftds": 1,
+    "state": "NY"
+  },
+  {
+    "date": "2024-10-07",
+    "code": "AFF014",
+    "registrations": 27,
+    "ftds": 3,
+    "state": "NY"
+  },
+  {
+    "date": "2024-11-05",
+    "code": "AFF015",
+    "registrations": 35,
+    "ftds": 4,
+    "state": "NY"
+  },
+  {
+    "date": "2025-01-01",
+    "code": "AFF015",
+    "registrations": 22,
+    "ftds": 6,
+    "state": "NY"
+  },
+  {
+    "date": "2024-09-10",
+    "code": "AFF001",
+    "registrations": 24,
+    "ftds": 2,
+    "state": "OH"
+  },
+  {
+    "date": "2024-09-26",
+    "code": "AFF002",
+    "registrations": 17,
+    "ftds": 3,
+    "state": "OH"
+  },
+  {
+    "date": "2024-08-29",
+    "code": "AFF004",
+    "registrations": 10,
+    "ftds": 2,
+    "state": "OH"
+  },
+  {
+    "date": "2024-08-25",
+    "code": "AFF005",
+    "registrations": 17,
+    "ftds": 4,
+    "state": "OH"
+  },
+  {
+    "date": "2024-09-23",
+    "code": "AFF005",
+    "registrations": 32,
+    "ftds": 4,
+    "state": "OH"
+  },
+  {
+    "date": "2025-01-07",
+    "code": "AFF005",
+    "registrations": 25,
+    "ftds": 4,
+    "state": "OH"
+  },
+  {
+    "date": "2025-01-29",
+    "code": "AFF005",
+    "registrations": 10,
+    "ftds": 1,
+    "state": "OH"
+  },
+  {
+    "date": "2024-08-17",
+    "code": "AFF006",
+    "registrations": 32,
+    "ftds": 5,
+    "state": "OH"
+  },
+  {
+    "date": "2024-10-06",
+    "code": "AFF006",
+    "registrations": 15,
+    "ftds": 3,
+    "state": "OH"
+  },
+  {
+    "date": "2025-01-23",
+    "code": "AFF006",
+    "registrations": 13,
+    "ftds": 2,
+    "state": "OH"
+  },
+  {
+    "date": "2024-10-22",
+    "code": "AFF007",
+    "registrations": 28,
+    "ftds": 6,
+    "state": "OH"
+  },
+  {
+    "date": "2024-11-27",
+    "code": "AFF007",
+    "registrations": 21,
+    "ftds": 3,
+    "state": "OH"
+  },
+  {
+    "date": "2024-09-08",
+    "code": "AFF008",
+    "registrations": 36,
+    "ftds": 4,
+    "state": "OH"
+  },
+  {
+    "date": "2024-09-18",
+    "code": "AFF008",
+    "registrations": 26,
+    "ftds": 2,
+    "state": "OH"
+  },
+  {
+    "date": "2024-09-20",
+    "code": "AFF008",
+    "registrations": 32,
+    "ftds": 9,
+    "state": "OH"
+  },
+  {
+    "date": "2024-10-06",
+    "code": "AFF008",
+    "registrations": 16,
+    "ftds": 3,
+    "state": "OH"
+  },
+  {
+    "date": "2025-01-10",
+    "code": "AFF010",
+    "registrations": 13,
+    "ftds": 3,
+    "state": "OH"
+  },
+  {
+    "date": "2025-01-29",
+    "code": "AFF010",
+    "registrations": 34,
+    "ftds": 2,
+    "state": "OH"
+  },
+  {
+    "date": "2024-11-15",
+    "code": "AFF011",
+    "registrations": 12,
+    "ftds": 1,
+    "state": "OH"
+  },
+  {
+    "date": "2024-12-16",
+    "code": "AFF013",
+    "registrations": 18,
+    "ftds": 1,
+    "state": "OH"
+  },
+  {
+    "date": "2024-09-19",
+    "code": "AFF014",
+    "registrations": 21,
+    "ftds": 5,
+    "state": "OH"
+  },
+  {
+    "date": "2024-11-22",
+    "code": "AFF014",
+    "registrations": 4,
+    "ftds": 1,
+    "state": "OH"
+  },
+  {
+    "date": "2024-10-25",
+    "code": "AFF001",
+    "registrations": 10,
+    "ftds": 1,
+    "state": "OK"
+  },
+  {
+    "date": "2024-12-05",
+    "code": "AFF001",
+    "registrations": 34,
+    "ftds": 4,
+    "state": "OK"
+  },
+  {
+    "date": "2025-01-23",
+    "code": "AFF001",
+    "registrations": 30,
+    "ftds": 6,
+    "state": "OK"
+  },
+  {
+    "date": "2024-10-28",
+    "code": "AFF014",
+    "registrations": 4,
+    "ftds": 1,
+    "state": "OK"
+  },
+  {
+    "date": "2025-01-20",
+    "code": "AFF015",
+    "registrations": 2,
+    "ftds": 0,
+    "state": "OK"
+  },
+  {
+    "date": "2024-11-16",
+    "code": "AFF001",
+    "registrations": 21,
+    "ftds": 1,
+    "state": "OR"
+  },
+  {
+    "date": "2024-07-07",
+    "code": "AFF002",
+    "registrations": 22,
+    "ftds": 6,
+    "state": "OR"
+  },
+  {
+    "date": "2024-07-14",
+    "code": "AFF002",
+    "registrations": 27,
+    "ftds": 5,
+    "state": "OR"
+  },
+  {
+    "date": "2024-09-12",
+    "code": "AFF002",
+    "registrations": 6,
+    "ftds": 1,
+    "state": "OR"
+  },
+  {
+    "date": "2024-08-05",
+    "code": "AFF003",
+    "registrations": 36,
+    "ftds": 7,
+    "state": "OR"
+  },
+  {
+    "date": "2024-09-14",
+    "code": "AFF003",
+    "registrations": 27,
+    "ftds": 2,
+    "state": "OR"
+  },
+  {
+    "date": "2024-10-04",
+    "code": "AFF003",
+    "registrations": 2,
+    "ftds": 0,
+    "state": "OR"
+  },
+  {
+    "date": "2024-12-01",
+    "code": "AFF006",
+    "registrations": 9,
+    "ftds": 2,
+    "state": "OR"
+  },
+  {
+    "date": "2024-10-09",
+    "code": "AFF008",
+    "registrations": 20,
+    "ftds": 4,
+    "state": "OR"
+  },
+  {
+    "date": "2024-10-13",
+    "code": "AFF008",
+    "registrations": 10,
+    "ftds": 3,
+    "state": "OR"
+  },
+  {
+    "date": "2024-10-06",
+    "code": "AFF009",
+    "registrations": 12,
+    "ftds": 2,
+    "state": "OR"
+  },
+  {
+    "date": "2024-11-16",
+    "code": "AFF013",
+    "registrations": 34,
+    "ftds": 2,
+    "state": "OR"
+  },
+  {
+    "date": "2024-08-21",
+    "code": "AFF001",
+    "registrations": 13,
+    "ftds": 4,
+    "state": "PA"
+  },
+  {
+    "date": "2024-10-19",
+    "code": "AFF001",
+    "registrations": 8,
+    "ftds": 2,
+    "state": "PA"
+  },
+  {
+    "date": "2024-09-08",
+    "code": "AFF002",
+    "registrations": 33,
+    "ftds": 2,
+    "state": "PA"
+  },
+  {
+    "date": "2024-07-18",
+    "code": "AFF003",
+    "registrations": 24,
+    "ftds": 3,
+    "state": "PA"
+  },
+  {
+    "date": "2024-08-29",
+    "code": "AFF003",
+    "registrations": 38,
+    "ftds": 9,
+    "state": "PA"
+  },
+  {
+    "date": "2024-09-29",
+    "code": "AFF003",
+    "registrations": 25,
+    "ftds": 7,
+    "state": "PA"
+  },
+  {
+    "date": "2024-12-04",
+    "code": "AFF003",
+    "registrations": 29,
+    "ftds": 3,
+    "state": "PA"
+  },
+  {
+    "date": "2024-08-09",
+    "code": "AFF004",
+    "registrations": 11,
+    "ftds": 2,
+    "state": "PA"
+  },
+  {
+    "date": "2024-08-26",
+    "code": "AFF004",
+    "registrations": 11,
+    "ftds": 0,
+    "state": "PA"
+  },
+  {
+    "date": "2024-08-29",
+    "code": "AFF004",
+    "registrations": 10,
+    "ftds": 2,
+    "state": "PA"
+  },
+  {
+    "date": "2024-12-14",
+    "code": "AFF004",
+    "registrations": 10,
+    "ftds": 0,
+    "state": "PA"
+  },
+  {
+    "date": "2024-08-23",
+    "code": "AFF005",
+    "registrations": 38,
+    "ftds": 8,
+    "state": "PA"
+  },
+  {
+    "date": "2024-10-08",
+    "code": "AFF005",
+    "registrations": 22,
+    "ftds": 5,
+    "state": "PA"
+  },
+  {
+    "date": "2024-11-08",
+    "code": "AFF005",
+    "registrations": 11,
+    "ftds": 2,
+    "state": "PA"
+  },
+  {
+    "date": "2025-01-11",
+    "code": "AFF006",
+    "registrations": 9,
+    "ftds": 0,
+    "state": "PA"
+  },
+  {
+    "date": "2024-11-03",
+    "code": "AFF007",
+    "registrations": 16,
+    "ftds": 4,
+    "state": "PA"
+  },
+  {
+    "date": "2024-09-06",
+    "code": "AFF008",
+    "registrations": 38,
+    "ftds": 8,
+    "state": "PA"
+  },
+  {
+    "date": "2024-10-16",
+    "code": "AFF008",
+    "registrations": 40,
+    "ftds": 7,
+    "state": "PA"
+  },
+  {
+    "date": "2024-09-08",
+    "code": "AFF009",
+    "registrations": 20,
+    "ftds": 6,
+    "state": "PA"
+  },
+  {
+    "date": "2024-09-09",
+    "code": "AFF011",
+    "registrations": 27,
+    "ftds": 4,
+    "state": "PA"
+  },
+  {
+    "date": "2024-09-22",
+    "code": "AFF013",
+    "registrations": 4,
+    "ftds": 0,
+    "state": "PA"
+  },
+  {
+    "date": "2024-10-11",
+    "code": "AFF013",
+    "registrations": 36,
+    "ftds": 2,
+    "state": "PA"
+  },
+  {
+    "date": "2024-08-29",
+    "code": "AFF014",
+    "registrations": 27,
+    "ftds": 1,
+    "state": "PA"
+  },
+  {
+    "date": "2024-09-25",
+    "code": "AFF015",
+    "registrations": 40,
+    "ftds": 3,
+    "state": "PA"
+  },
+  {
+    "date": "2024-12-14",
+    "code": "AFF015",
+    "registrations": 36,
+    "ftds": 9,
+    "state": "PA"
+  },
+  {
+    "date": "2024-11-16",
+    "code": "AFF003",
+    "registrations": 12,
+    "ftds": 0,
+    "state": "RI"
+  },
+  {
+    "date": "2024-11-28",
+    "code": "AFF003",
+    "registrations": 1,
+    "ftds": 0,
+    "state": "RI"
+  },
+  {
+    "date": "2025-01-06",
+    "code": "AFF004",
+    "registrations": 9,
+    "ftds": 1,
+    "state": "RI"
+  },
+  {
+    "date": "2025-01-17",
+    "code": "AFF005",
+    "registrations": 27,
+    "ftds": 2,
+    "state": "RI"
+  },
+  {
+    "date": "2024-08-28",
+    "code": "AFF007",
+    "registrations": 23,
+    "ftds": 2,
+    "state": "RI"
+  },
+  {
+    "date": "2025-01-14",
+    "code": "AFF008",
+    "registrations": 11,
+    "ftds": 2,
+    "state": "RI"
+  },
+  {
+    "date": "2025-01-30",
+    "code": "AFF009",
+    "registrations": 23,
+    "ftds": 1,
+    "state": "RI"
+  },
+  {
+    "date": "2024-11-22",
+    "code": "AFF001",
+    "registrations": 2,
+    "ftds": 0,
+    "state": "SC"
+  },
+  {
+    "date": "2024-10-16",
+    "code": "AFF002",
+    "registrations": 13,
+    "ftds": 3,
+    "state": "SC"
+  },
+  {
+    "date": "2024-08-08",
+    "code": "AFF003",
+    "registrations": 10,
+    "ftds": 0,
+    "state": "SC"
+  },
+  {
+    "date": "2024-11-17",
+    "code": "AFF004",
+    "registrations": 12,
+    "ftds": 3,
+    "state": "SC"
+  },
+  {
+    "date": "2025-01-19",
+    "code": "AFF004",
+    "registrations": 9,
+    "ftds": 2,
+    "state": "SC"
+  },
+  {
+    "date": "2024-07-17",
+    "code": "AFF008",
+    "registrations": 30,
+    "ftds": 9,
+    "state": "SC"
+  },
+  {
+    "date": "2024-12-17",
+    "code": "AFF012",
+    "registrations": 10,
+    "ftds": 1,
+    "state": "SC"
+  },
+  {
+    "date": "2024-09-02",
+    "code": "AFF002",
+    "registrations": 2,
+    "ftds": 0,
+    "state": "TN"
+  },
+  {
+    "date": "2025-01-09",
+    "code": "AFF003",
+    "registrations": 18,
+    "ftds": 5,
+    "state": "TN"
+  },
+  {
+    "date": "2024-09-08",
+    "code": "AFF005",
+    "registrations": 31,
+    "ftds": 10,
+    "state": "TN"
+  },
+  {
+    "date": "2024-11-07",
+    "code": "AFF005",
+    "registrations": 36,
+    "ftds": 6,
+    "state": "TN"
+  },
+  {
+    "date": "2024-12-06",
+    "code": "AFF005",
+    "registrations": 24,
+    "ftds": 1,
+    "state": "TN"
+  },
+  {
+    "date": "2025-01-07",
+    "code": "AFF006",
+    "registrations": 19,
+    "ftds": 5,
+    "state": "TN"
+  },
+  {
+    "date": "2024-10-25",
+    "code": "AFF008",
+    "registrations": 24,
+    "ftds": 2,
+    "state": "TN"
+  },
+  {
+    "date": "2025-01-24",
+    "code": "AFF015",
+    "registrations": 22,
+    "ftds": 7,
+    "state": "TN"
+  },
+  {
+    "date": "2024-07-08",
+    "code": "AFF001",
+    "registrations": 17,
+    "ftds": 1,
+    "state": "TX"
+  },
+  {
+    "date": "2024-10-22",
+    "code": "AFF001",
+    "registrations": 6,
+    "ftds": 0,
+    "state": "TX"
+  },
+  {
+    "date": "2024-11-08",
+    "code": "AFF001",
+    "registrations": 12,
+    "ftds": 0,
+    "state": "TX"
+  },
+  {
+    "date": "2024-09-27",
+    "code": "AFF002",
+    "registrations": 36,
+    "ftds": 8,
+    "state": "TX"
+  },
+  {
+    "date": "2024-10-18",
+    "code": "AFF002",
+    "registrations": 30,
+    "ftds": 3,
+    "state": "TX"
+  },
+  {
+    "date": "2024-10-24",
+    "code": "AFF002",
+    "registrations": 29,
+    "ftds": 10,
+    "state": "TX"
+  },
+  {
+    "date": "2024-10-22",
+    "code": "AFF003",
+    "registrations": 24,
+    "ftds": 1,
+    "state": "TX"
+  },
+  {
+    "date": "2024-10-27",
+    "code": "AFF003",
+    "registrations": 5,
+    "ftds": 0,
+    "state": "TX"
+  },
+  {
+    "date": "2024-12-07",
+    "code": "AFF003",
+    "registrations": 21,
+    "ftds": 2,
+    "state": "TX"
+  },
+  {
+    "date": "2024-12-25",
+    "code": "AFF003",
+    "registrations": 2,
+    "ftds": 0,
+    "state": "TX"
+  },
+  {
+    "date": "2024-07-21",
+    "code": "AFF004",
+    "registrations": 20,
+    "ftds": 5,
+    "state": "TX"
+  },
+  {
+    "date": "2024-07-25",
+    "code": "AFF004",
+    "registrations": 23,
+    "ftds": 5,
+    "state": "TX"
+  },
+  {
+    "date": "2024-08-20",
+    "code": "AFF004",
+    "registrations": 31,
+    "ftds": 2,
+    "state": "TX"
+  },
+  {
+    "date": "2024-10-14",
+    "code": "AFF004",
+    "registrations": 28,
+    "ftds": 8,
+    "state": "TX"
+  },
+  {
+    "date": "2024-11-05",
+    "code": "AFF004",
+    "registrations": 30,
+    "ftds": 2,
+    "state": "TX"
+  },
+  {
+    "date": "2025-01-14",
+    "code": "AFF004",
+    "registrations": 33,
+    "ftds": 9,
+    "state": "TX"
+  },
+  {
+    "date": "2025-01-23",
+    "code": "AFF005",
+    "registrations": 36,
+    "ftds": 12,
+    "state": "TX"
+  },
+  {
+    "date": "2024-10-28",
+    "code": "AFF006",
+    "registrations": 20,
+    "ftds": 3,
+    "state": "TX"
+  },
+  {
+    "date": "2024-08-24",
+    "code": "AFF007",
+    "registrations": 21,
+    "ftds": 2,
+    "state": "TX"
+  },
+  {
+    "date": "2024-11-04",
+    "code": "AFF007",
+    "registrations": 31,
+    "ftds": 4,
+    "state": "TX"
+  },
+  {
+    "date": "2024-10-30",
+    "code": "AFF008",
+    "registrations": 5,
+    "ftds": 0,
+    "state": "TX"
+  },
+  {
+    "date": "2024-07-01",
+    "code": "AFF009",
+    "registrations": 35,
+    "ftds": 6,
+    "state": "TX"
+  },
+  {
+    "date": "2024-07-18",
+    "code": "AFF009",
+    "registrations": 16,
+    "ftds": 2,
+    "state": "TX"
+  },
+  {
+    "date": "2024-07-30",
+    "code": "AFF009",
+    "registrations": 35,
+    "ftds": 9,
+    "state": "TX"
+  },
+  {
+    "date": "2024-11-30",
+    "code": "AFF009",
+    "registrations": 18,
+    "ftds": 3,
+    "state": "TX"
+  },
+  {
+    "date": "2024-08-10",
+    "code": "AFF010",
+    "registrations": 31,
+    "ftds": 5,
+    "state": "TX"
+  },
+  {
+    "date": "2025-01-19",
+    "code": "AFF010",
+    "registrations": 3,
+    "ftds": 0,
+    "state": "TX"
+  },
+  {
+    "date": "2024-07-24",
+    "code": "AFF011",
+    "registrations": 16,
+    "ftds": 1,
+    "state": "TX"
+  },
+  {
+    "date": "2024-09-25",
+    "code": "AFF011",
+    "registrations": 25,
+    "ftds": 3,
+    "state": "TX"
+  },
+  {
+    "date": "2025-01-27",
+    "code": "AFF012",
+    "registrations": 15,
+    "ftds": 1,
+    "state": "TX"
+  },
+  {
+    "date": "2024-07-29",
+    "code": "AFF013",
+    "registrations": 32,
+    "ftds": 7,
+    "state": "TX"
+  },
+  {
+    "date": "2024-07-26",
+    "code": "AFF014",
+    "registrations": 29,
+    "ftds": 2,
+    "state": "TX"
+  },
+  {
+    "date": "2024-09-03",
+    "code": "AFF015",
+    "registrations": 4,
+    "ftds": 0,
+    "state": "TX"
+  },
+  {
+    "date": "2024-12-06",
+    "code": "AFF015",
+    "registrations": 24,
+    "ftds": 5,
+    "state": "TX"
+  },
+  {
+    "date": "2024-11-18",
+    "code": "AFF002",
+    "registrations": 19,
+    "ftds": 3,
+    "state": "UT"
+  },
+  {
+    "date": "2024-11-21",
+    "code": "AFF003",
+    "registrations": 40,
+    "ftds": 4,
+    "state": "UT"
+  },
+  {
+    "date": "2025-01-16",
+    "code": "AFF006",
+    "registrations": 1,
+    "ftds": 0,
+    "state": "UT"
+  },
+  {
+    "date": "2024-07-18",
+    "code": "AFF009",
+    "registrations": 22,
+    "ftds": 5,
+    "state": "UT"
+  },
+  {
+    "date": "2024-08-09",
+    "code": "AFF009",
+    "registrations": 31,
+    "ftds": 2,
+    "state": "UT"
+  },
+  {
+    "date": "2024-10-20",
+    "code": "AFF001",
+    "registrations": 15,
+    "ftds": 4,
+    "state": "VA"
+  },
+  {
+    "date": "2024-09-18",
+    "code": "AFF002",
+    "registrations": 14,
+    "ftds": 2,
+    "state": "VA"
+  },
+  {
+    "date": "2024-07-28",
+    "code": "AFF005",
+    "registrations": 24,
+    "ftds": 5,
+    "state": "VA"
+  },
+  {
+    "date": "2024-07-30",
+    "code": "AFF005",
+    "registrations": 8,
+    "ftds": 1,
+    "state": "VA"
+  },
+  {
+    "date": "2025-01-14",
+    "code": "AFF007",
+    "registrations": 2,
+    "ftds": 0,
+    "state": "VA"
+  },
+  {
+    "date": "2025-01-07",
+    "code": "AFF009",
+    "registrations": 35,
+    "ftds": 6,
+    "state": "VA"
+  },
+  {
+    "date": "2024-07-18",
+    "code": "AFF011",
+    "registrations": 3,
+    "ftds": 0,
+    "state": "VA"
+  },
+  {
+    "date": "2024-07-29",
+    "code": "AFF001",
+    "registrations": 10,
+    "ftds": 2,
+    "state": "VT"
+  },
+  {
+    "date": "2024-09-06",
+    "code": "AFF002",
+    "registrations": 23,
+    "ftds": 7,
+    "state": "VT"
+  },
+  {
+    "date": "2024-07-08",
+    "code": "AFF003",
+    "registrations": 7,
+    "ftds": 2,
+    "state": "VT"
+  },
+  {
+    "date": "2024-07-14",
+    "code": "AFF003",
+    "registrations": 31,
+    "ftds": 2,
+    "state": "VT"
+  },
+  {
+    "date": "2024-08-05",
+    "code": "AFF003",
+    "registrations": 40,
+    "ftds": 5,
+    "state": "VT"
+  },
+  {
+    "date": "2024-11-19",
+    "code": "AFF003",
+    "registrations": 7,
+    "ftds": 2,
+    "state": "VT"
+  },
+  {
+    "date": "2024-08-09",
+    "code": "AFF006",
+    "registrations": 19,
+    "ftds": 3,
+    "state": "VT"
+  },
+  {
+    "date": "2024-10-04",
+    "code": "AFF007",
+    "registrations": 7,
+    "ftds": 1,
+    "state": "VT"
+  },
+  {
+    "date": "2025-01-27",
+    "code": "AFF008",
+    "registrations": 24,
+    "ftds": 1,
+    "state": "VT"
+  },
+  {
+    "date": "2024-11-19",
+    "code": "AFF014",
+    "registrations": 1,
+    "ftds": 0,
+    "state": "VT"
+  },
+  {
+    "date": "2024-10-12",
+    "code": "AFF001",
+    "registrations": 21,
+    "ftds": 2,
+    "state": "WA"
+  },
+  {
+    "date": "2025-01-01",
+    "code": "AFF001",
+    "registrations": 19,
+    "ftds": 4,
+    "state": "WA"
+  },
+  {
+    "date": "2024-07-24",
+    "code": "AFF002",
+    "registrations": 37,
+    "ftds": 8,
+    "state": "WA"
+  },
+  {
+    "date": "2024-07-31",
+    "code": "AFF002",
+    "registrations": 7,
+    "ftds": 1,
+    "state": "WA"
+  },
+  {
+    "date": "2024-09-09",
+    "code": "AFF002",
+    "registrations": 8,
+    "ftds": 2,
+    "state": "WA"
+  },
+  {
+    "date": "2024-09-14",
+    "code": "AFF002",
+    "registrations": 4,
+    "ftds": 0,
+    "state": "WA"
+  },
+  {
+    "date": "2024-08-31",
+    "code": "AFF003",
+    "registrations": 31,
+    "ftds": 9,
+    "state": "WA"
+  },
+  {
+    "date": "2024-12-03",
+    "code": "AFF005",
+    "registrations": 14,
+    "ftds": 4,
+    "state": "WA"
+  },
+  {
+    "date": "2024-07-22",
+    "code": "AFF006",
+    "registrations": 24,
+    "ftds": 1,
+    "state": "WA"
+  },
+  {
+    "date": "2025-01-04",
+    "code": "AFF006",
+    "registrations": 18,
+    "ftds": 4,
+    "state": "WA"
+  },
+  {
+    "date": "2025-01-25",
+    "code": "AFF006",
+    "registrations": 6,
+    "ftds": 1,
+    "state": "WA"
+  },
+  {
+    "date": "2025-01-24",
+    "code": "AFF009",
+    "registrations": 21,
+    "ftds": 5,
+    "state": "WA"
+  },
+  {
+    "date": "2024-08-16",
+    "code": "AFF011",
+    "registrations": 9,
+    "ftds": 1,
+    "state": "WA"
+  },
+  {
+    "date": "2024-12-20",
+    "code": "AFF001",
+    "registrations": 27,
+    "ftds": 6,
+    "state": "WI"
+  },
+  {
+    "date": "2024-10-28",
+    "code": "AFF002",
+    "registrations": 40,
+    "ftds": 8,
+    "state": "WI"
+  },
+  {
+    "date": "2024-10-22",
+    "code": "AFF004",
+    "registrations": 38,
+    "ftds": 5,
+    "state": "WI"
+  },
+  {
+    "date": "2024-12-23",
+    "code": "AFF005",
+    "registrations": 31,
+    "ftds": 7,
+    "state": "WI"
+  },
+  {
+    "date": "2024-12-29",
+    "code": "AFF005",
+    "registrations": 29,
+    "ftds": 6,
+    "state": "WI"
+  },
+  {
+    "date": "2024-10-11",
+    "code": "AFF009",
+    "registrations": 35,
+    "ftds": 5,
+    "state": "WI"
+  },
+  {
+    "date": "2025-01-02",
+    "code": "AFF009",
+    "registrations": 26,
+    "ftds": 8,
+    "state": "WI"
+  }
+]
