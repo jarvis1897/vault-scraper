@@ -1,6 +1,6 @@
 # Vault Network — Affiliate Dashboard Scraper
 
-Scrapes affiliate performance data from a QuickSight dashboard and writes it to `output.json`.
+Scrapes data from a QuickSight dashboard and writes it to `output.json`.
 
 ## Requirements
 
