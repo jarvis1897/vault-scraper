@@ -1,4 +1,4 @@
-# Vault Network — Affiliate Dashboard Scraper
+# Vault Network: Dashboard Scraper
 
 Scrapes data from a QuickSight dashboard and writes it to `output.json`.
 
@@ -47,9 +47,8 @@ The script will log in to the dashboard, dismiss any welcome modals, and scroll 
 
 The dashboard is a JavaScript-rendered QuickSight table. A few things I had to work through:
 
-- **No SDK access** — the credentials provided are reader-level web credentials, not IAM keys, so the boto3 QuickSight SDK wasn't an option. Browser automation was the only path.
-- **No `<table>` element** — QuickSight renders its table as absolutely-positioned `div` elements. Each cell is a `div.cell` with `data-row-path`, `data-col-path`, and a `title` attribute holding the value.
-- **Virtualized rendering** — only the rows currently visible in the viewport exist in the DOM. Scrolling `.grid-container` (the element with `overflow-y: auto`) incrementally forces the virtualizer to render new rows.
-- **`overflow-y: hidden` trap** — `.fixed-grid-wrapper` accepts `scrollTop` writes but doesn't trigger re-rendering because its overflow is hidden. `.grid-container` is the correct scroll target.
-- **Welcome modal** — a promo modal appears after login and blocks the dashboard. It's dismissed via `[data-automation-id="welcome-modal-close-btn"]`.
-- **`state="attached"` vs `state="visible"`** — Playwright's default `wait_for_selector` waits for visibility, but the table sits behind hidden overflow ancestors and never becomes "visible" in Playwright's sense. `state="attached"` waits for DOM presence instead.
+- **No SDK access**: the credentials provided are reader-level web credentials, not IAM keys, so the boto3 QuickSight SDK wasn't an option. Browser automation was the only path.
+- **Welcome modal**: a promo modal appears after login and blocks the dashboard. It's dismissed via `[data-automation-id="welcome-modal-close-btn"]`.
+- **No `<table>` element**: QuickSight renders its table as absolutely-positioned `div` elements. Each cell is a `div.cell` with `data-row-path`, `data-col-path`, and a `title` attribute holding the value.
+- **Virtualized rendering**: only the rows currently visible in the viewport exist in the DOM. Scrolling `.grid-container` (the element with `overflow-y: auto`) incrementally forces the virtualizer to render new rows.
+- **`overflow-y: hidden` trap**: `.fixed-grid-wrapper` accepts `scrollTop` writes but doesn't trigger re-rendering because its overflow is hidden. `.grid-container` is the correct scroll target.
